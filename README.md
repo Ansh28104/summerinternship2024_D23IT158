@@ -31,4 +31,16 @@ Complete the first week’s tasks and ask for feedback
 Plan your goals for the next week based on feedback
 Network with other interns and colleagues
 
+## Day 6-10: Deep Dive into Projects
+
+## Day 6:
+Identify the main project you'll be working on
+Break down the project into smaller, manageable tasks
+Research and gather resources needed for the project
+
+## Day 7:
+Begin working on the initial phase of your project
+Schedule a mid-week check-in with your supervisor
+Continue networking and learning about different departments
+
 
