@@ -4,43 +4,40 @@
 ## This repository highlights the projects and practical experiences gained during my 4-week internship, focusing on Web development.
 
 
-## Day 1-5: Orientation and Initial Setup
-## Day 1:
-Introduction to the company and web development team
-Set up your development environment (install necessary software, IDEs, version control systems)
-Review company policies and procedures
-Meet with your supervisor to discuss project expectations and goals
+## Week 1: Orientation and Basics
 
-## Day 2:
-Attend orientation sessions or training workshops
-Familiarize yourself with the company’s web development stack and tools
-Review past web development projects and relevant documentation
+## Day 1: Orientation
+Meet with HR for paperwork and company policies.
+Get introduced to team members and understand their roles.
+Set up your development environment (install necessary software/tools).
 
-## Day 3:
-Begin small tasks such as fixing bugs or making minor updates to existing web applications
-Set up regular check-in meetings with your supervisor
-Connect with your team members for informal introductions
+## Day 2: Company Culture and Tools
+Attend company orientation sessions.
+Learn about the tools and technologies used in the company (e.g., Slack, Jira).
 
-## Day 4:
-Continue with initial tasks and get comfortable with the codebase
-Attend any scheduled meetings or team briefings
-Start a journal to document daily activities, learnings, and reflections
+## Day 3: HTML Basics
+Review or learn HTML basics (structure, tags, attributes).
+Complete simple HTML exercises or projects.
 
-## Day 5:
-Complete the first week’s tasks and ask for feedback
-Plan your goals for the next week based on feedback
-Network with other interns and colleagues
+## Day 4: CSS Basics
+Learn CSS basics (selectors, properties, styling).
+Practice styling simple HTML pages.
 
-## Day 6-10: Deep Dive into Projects
+## Day 5: JavaScript Basics
+Begin learning JavaScript basics (variables, data types, functions).
+Write simple scripts to manipulate HTML elements.
+Week 2: Front-end Development
 
-## Day 6:
-Identify the main project you'll be working on
-Break down the project into smaller, manageable tasks
-Research and gather resources needed for the project
+## Day 6: Introduction to Git
+Learn the basics of version control with Git.
+Set up a GitHub repository for your internship projects.
 
-## Day 7:
-Begin working on the initial phase of your project
-Schedule a mid-week check-in with your supervisor
-Continue networking and learning about different departments
+## Day 7-8: Responsive Web Design
+Study principles of responsive web design.
+Practice creating responsive layouts using CSS media queries.
+
+## Day 9-10: Introduction to Bootstrap
+Learn the basics of Bootstrap framework.
+Build a simple website using Bootstrap components.
 
 
