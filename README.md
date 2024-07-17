@@ -38,4 +38,22 @@ This repository highlights the projects and practical experiences gained during 
 
 ### Days 9-10: Introduction to Bootstrap
 - Learn the basics of the Bootstrap framework.
-- Build a simple website using Bootstrap 
+- Build a simple website using Bootstrap
+
+## Week 3: Advanced Front-end Development
+
+### Days 11-12: JavaScript DOM Manipulation
+- Learn about the Document Object Model (DOM).
+- Practice DOM manipulation using JavaScript.
+- Complete exercises to dynamically change HTML content.
+
+### Days 13-14: JavaScript Events
+- Understand JavaScript event handling (click, hover, etc.).
+- Implement event listeners in projects.
+- Build interactive web pages using JavaScript events.
+
+### Day 15: Advanced CSS (Flexbox & Grid)
+- Learn about CSS Flexbox and Grid layout systems.
+- Practice creating complex, responsive layouts using Flexbox and Grid.
+
+
