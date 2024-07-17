@@ -55,5 +55,31 @@ This repository highlights the projects and practical experiences gained during 
 ### Day 15: Advanced CSS (Flexbox & Grid)
 - Learn about CSS Flexbox and Grid layout systems.
 - Practice creating complex, responsive layouts using Flexbox and Grid.
+  
+## Week 4: Back-end Development & Final Project
+
+### Day 16: Introduction to Back-end Development
+- Overview of back-end technologies (e.g., Node.js, Express).
+- Understand the basics of server-side programming.
+
+### Days 17-18: Setting Up a Node.js Server
+- Learn how to set up a simple server using Node.js and Express.
+- Practice handling HTTP requests and responses.
+
+### Days 19-20: Connecting Front-end to Back-end
+- Learn how to fetch data from the server using AJAX or Fetch API.
+- Practice sending and receiving data between client and server.
+
+### Day 21: Final Project Planning
+- Brainstorm ideas for the final project.
+- Create a project plan outlining the objectives, features, and timeline.
+
+### Days 22-24: Final Project Development
+- Implement the final project based on the plan.
+- Use the skills and knowledge acquired during the internship.
+
+### Day 25: Final Project Presentation
+- Prepare a presentation showcasing the final project.
+- Present the project to the team and receive feedback.  
 
 
