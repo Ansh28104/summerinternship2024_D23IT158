@@ -1,6 +1,6 @@
-# Summer Internship 2024
+# Summer Internship 2025
 
-## Welcome to My GitHub Repository for the Web Development Summer Internship 2024!
+## Welcome to My GitHub Repository for the Web Development Summer Internship 2025!
 This repository highlights the projects and practical experiences gained during my 4-week internship, focusing on Web development.
 
 ## Week 1: Orientation and Basics
